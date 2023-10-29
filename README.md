@@ -1,4 +1,4 @@
-# Flag cho **Boku_No_PicoCTF2022**
+# Flag cho **PicoCTF2022**
 |    Mảng            |Tên bài                          |Flag                       |
 |----------------|-------------------------------|-----------------------------|
 |Web Exploitation|Includes|picoCTF{1nclu51v17y_1of2_f7w_2of2_3d50f001}      |
